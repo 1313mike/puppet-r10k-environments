@@ -16,3 +16,6 @@ mod 'testrepo',
   :git => 'https://github.com/1313mike/testrepo.git',
   :branch => 'master'
 
+mod 'apache',
+  :git => 'https://github.com/1313mike/apache.git'
+  :branch => 'master'
